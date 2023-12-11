@@ -1,0 +1,16 @@
+{
+  "name": "ys",
+  "module": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bun-promptx": "^0.2.0",
+    "ffi": "^2.3.0",
+    "youtubei": "^1.2.1"
+  }
+}
